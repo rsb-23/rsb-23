@@ -14,7 +14,8 @@ So, lets automate the whole world - one script at a time 😜
 ### As Maintainer
 
 1. [vObjectx](https://github.com/rsb-23/vobjectx)
-1. [Yuhi](https://github.com/rsb-23/yuhi)
+2. [T-run](https://github.com/rsb-23/trun)
+3. [Yuhi](https://github.com/rsb-23/yuhi)
 
 ### As Contributor
 
